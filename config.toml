@@ -17,7 +17,7 @@ pygmentscodefencesguesssyntax = true
     author = "Jeremy N. Elkayam"
     info = "Thing Maker"
     description = "Personal website and blog for Jeremy Elkayam"
-    keywords = "blog,developer,personal,software,editor,editing,animation,animator,programming,programmer"
+    keywords = "jeremy,elkayam,blog,developer,personal,software,editor,editing,animation,animator,programming,programmer"
     avatarurl = "images/headshot.jpeg"
 
     favicon_32 = "/images/favicon-32x32.png"
