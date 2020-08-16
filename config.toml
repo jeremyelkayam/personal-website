@@ -51,11 +51,6 @@ pygmentscodefencesguesssyntax = true
     weight = 100
     url = "mailto:jne@jeremyelkayam.com"
 [[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
-    weight = 30
-    url = "https://twitter.com/jeremyelkayam/"
-[[params.social]]
     name = "YouTube"
     icon = "fab fa-youtube fa-2x"
     weight = 33
